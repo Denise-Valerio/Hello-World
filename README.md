@@ -1,4 +1,4 @@
 # Hello, World!
  Atividade criando um repositório do curso Git e GitHub
  
- Repositório craido na aula de GitHub Desktop
+ Repositório criado na aula de GitHub Desktop
